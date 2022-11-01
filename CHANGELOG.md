@@ -1,3 +1,10 @@
+# 1.0.0 (2022-11-01)
+
+
+### Features
+
+* init ([a8c9088](https://github.com/bhaktijkoli/versioning/commit/a8c90886132884adbcface7117c9ef47496ba86b))
+
 # [1.7.0-alpha.1](https://github.com/bhaktijkoli/versioning/compare/v1.6.0...v1.7.0-alpha.1) (2022-11-01)
 
 
