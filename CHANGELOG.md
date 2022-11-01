@@ -1,3 +1,13 @@
+# [1.1.0](https://github.com/bhaktijkoli/versioning/compare/v1.0.0...v1.1.0) (2022-11-01)
+
+
+### Features
+
+* 1 alpha release ([249179d](https://github.com/bhaktijkoli/versioning/commit/249179d6fb8597419473ce42ea824417e25e4504))
+* 2 alpha release ([d576c1b](https://github.com/bhaktijkoli/versioning/commit/d576c1b1d475ffcea07ba8bcb992f0abdcefd838))
+* 3 alpha release ([1df5f2c](https://github.com/bhaktijkoli/versioning/commit/1df5f2c57346d7fae561392fd12ec322fcc22076))
+* version 2 ([9f274a9](https://github.com/bhaktijkoli/versioning/commit/9f274a9bdc0e41b50683195284c1ddbdc5428383))
+
 # [1.1.0-alpha.3](https://github.com/bhaktijkoli/versioning/compare/v1.1.0-alpha.2...v1.1.0-alpha.3) (2022-11-01)
 
 
